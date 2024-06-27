@@ -15,7 +15,6 @@
 - [Three JS (React Three)](https://www.npmjs.com/package/react-three) - 3D model interaction
 - [Lenis (React Lenis)](https://www.npmjs.com/package/@studio-freight/react-lenis) - Smooth Scrolling
 - [Vite](https://vitejs.dev/) - Build tool
-- [Vercel](https://vercel.com/) - Hosting and Deployment
 
 ## Run locally 💻
 
